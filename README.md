@@ -1,5 +1,7 @@
 # Variable Finance Smart Contracts
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://raw.githubusercontent.com/KnowYourDeFi/knowyourdefi.github.io/master/LICENSE)
+
 This repository contains the smart contracts of the variable finance on-chain POS eco-system. It forms the basis of creating merchant accounts, processing payments & real-time settlements.
 
 ### Table of contents
